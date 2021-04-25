@@ -1,0 +1,5 @@
+export default {
+  CURRENT_PRICE: "CURRENT_PRICE",
+  COIN_KEY: "COIN_KEY",
+  GRAPH_DATA: "GRAPH_DATA",
+};

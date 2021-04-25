@@ -1,0 +1,23 @@
+.container-data {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid black;
+  margin: 7% 2%;
+  padding: 10px;
+}
+canvas {
+  width: 900px !important;
+  height: 400px !important;
+}
+@media screen and (max-width: 700px) {
+  .container-data {
+    display: flex;
+    flex-direction: column;
+    border: none;
+  }
+  canvas {
+    width: 390px !important;
+    height: 400px !important;
+  }
+}

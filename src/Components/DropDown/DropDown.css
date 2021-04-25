@@ -1,0 +1,26 @@
+.underline {
+  width: 100%;
+  margin: 10px;
+  font-family: Google-sansB;
+}
+.MuiOutlinedInput-input {
+  padding: 10.5px 14px !important;
+}
+.MuiSelect-selectMenu {
+  font-family: Google-sansB !important;
+}
+.MuiMenuItem-root {
+  font-family: Google-sansB !important;
+}
+.display {
+  font-family: Google-sansB !important;
+  font-size: 30px;
+}
+.label {
+  font-family: Google-sans;
+}
+
+.MuiOutlinedInput-root,
+.MuiInputBase-root {
+  width: 75% !important;
+}
